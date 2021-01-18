@@ -1,0 +1,10 @@
+RENCANA BELAJAR EEL
+
+- Mempelajari Flutter
+- Mempelajari React
+- Mempelajari Laravel
+  * Melanjutkan course Full Stack Laravel Vue JS di BWA
+- Belajar Advanced Javascript
+- Mempelajari Node JS
+- Mempelajari materi SMA dan latihan soal untuk persiapan UTBK (jika tdk lulus SNMPTN)
+- Belajar cara belajar with Hutata
