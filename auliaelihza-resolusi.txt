@@ -14,6 +14,7 @@ Dunia :
   - Pintar memanage waktu
   - Mengulang-ulang pelajaran supaya ingat dan paham (Belajar tiap hari senin-jum'at)
   - Mencoba membuat video di youtube
+    * Membuat video programming
   
 Akhirat : 
   - Melanjutkan hafalan surah al-baqarah
