@@ -8,3 +8,4 @@ RENCANA BELAJAR EEL
 - Mempelajari Node JS
 - Mempelajari materi SMA dan latihan soal untuk persiapan UTBK (jika tdk lulus SNMPTN)
 - Belajar cara belajar with Hutata
+- Belajar Kolaborasi projek
