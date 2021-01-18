@@ -4,7 +4,10 @@ RENCANA BELAJAR EEL
 - Mempelajari React
 - Mempelajari Laravel
   * Melanjutkan course Full Stack Laravel Vue JS di BWA
+  * Mempelajari Laravel Flutter
 - Belajar Advanced Javascript
+  * belajar arrow function
 - Mempelajari Node JS
 - Mempelajari materi SMA dan latihan soal untuk persiapan UTBK (jika tdk lulus SNMPTN)
 - Belajar cara belajar with Hutata
+- Belajar Kolaborasi projek
